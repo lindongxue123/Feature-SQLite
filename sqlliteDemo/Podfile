@@ -1,0 +1,8 @@
+
+platform :ios, '9.0'
+use_frameworks!
+
+target 'sqlliteDemo' do
+pod 'AFNetworking', '~> 3.0'
+pod 'SQLite.swift', '~> 0.12.2'
+end
